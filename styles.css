@@ -1,0 +1,12 @@
+        .about-me{
+            background-color: lightpink;
+        }
+        
+        .text-info span {
+            display: inline-block;
+            width: 60px;
+            height: 30px;
+            border: solid 2px red;
+            overflow: hidden;
+        }
+    
